@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplicationCanvia", "http://localhost/WebApplicationCanvia/WebApplicationCanvia.csproj", "{D5CCA404-7F45-4C8C-8F9F-21E1E123BF82}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Canvia.Common", "..\Canvia.Common\Canvia.Common.csproj", "{DEF10E9F-2826-4A74-85CF-015017FEFA47}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{D5CCA404-7F45-4C8C-8F9F-21E1E123BF82}.Debug.ActiveCfg = Debug|.NET
+		{D5CCA404-7F45-4C8C-8F9F-21E1E123BF82}.Debug.Build.0 = Debug|.NET
+		{D5CCA404-7F45-4C8C-8F9F-21E1E123BF82}.Release.ActiveCfg = Release|.NET
+		{D5CCA404-7F45-4C8C-8F9F-21E1E123BF82}.Release.Build.0 = Release|.NET
+		{DEF10E9F-2826-4A74-85CF-015017FEFA47}.Debug.ActiveCfg = Debug|.NET
+		{DEF10E9F-2826-4A74-85CF-015017FEFA47}.Debug.Build.0 = Debug|.NET
+		{DEF10E9F-2826-4A74-85CF-015017FEFA47}.Release.ActiveCfg = Release|.NET
+		{DEF10E9F-2826-4A74-85CF-015017FEFA47}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
