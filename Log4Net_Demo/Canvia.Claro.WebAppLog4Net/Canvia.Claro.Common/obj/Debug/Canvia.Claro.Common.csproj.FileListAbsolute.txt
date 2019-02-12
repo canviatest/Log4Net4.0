@@ -1,0 +1,7 @@
+C:\Users\mbaez\Desktop\Log4Net_Demo\Canvia.Claro.WebAppLog4Net\Canvia.Claro.Common\bin\Debug\Canvia.Claro.Common.dll
+C:\Users\mbaez\Desktop\Log4Net_Demo\Canvia.Claro.WebAppLog4Net\Canvia.Claro.Common\bin\Debug\Canvia.Claro.Common.pdb
+C:\Users\mbaez\Desktop\Log4Net_Demo\Canvia.Claro.WebAppLog4Net\Canvia.Claro.Common\bin\Debug\log4net.dll
+C:\Users\mbaez\Desktop\Log4Net_Demo\Canvia.Claro.WebAppLog4Net\Canvia.Claro.Common\bin\Debug\log4net.xml
+C:\Users\mbaez\Desktop\Log4Net_Demo\Canvia.Claro.WebAppLog4Net\Canvia.Claro.Common\obj\Debug\Canvia.Claro.Common.csprojResolveAssemblyReference.cache
+C:\Users\mbaez\Desktop\Log4Net_Demo\Canvia.Claro.WebAppLog4Net\Canvia.Claro.Common\obj\Debug\Canvia.Claro.Common.dll
+C:\Users\mbaez\Desktop\Log4Net_Demo\Canvia.Claro.WebAppLog4Net\Canvia.Claro.Common\obj\Debug\Canvia.Claro.Common.pdb
